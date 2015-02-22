@@ -1,0 +1,11 @@
+---
+title: "ReadMe_Assignment_DataProducts"
+author: "Mario Beck - M.Sc. Biotechnology (Wageningen University)"
+date: "20. Februar 2015"
+output: html_document
+---
+In this shiny app, the **mtcars** dataset is being explored through regression lines and the adjacent r_squared value explaining the percentage of datapoints which can be explained through the given regression line.
+
+**mtcars Regression Exploration Tool** was created as my course project for Coursera's [Developing Data Products](https://class.coursera.org/devdataprod-004) class.
+
+The initial idea is taken from the cheat-sheet of shiny on the shiny server. I adjusted and expanded on the idea of showing the mtcars dataset with the addition of a regression line, r squared and the coefficients of the generated regression line.
